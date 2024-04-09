@@ -52,11 +52,13 @@ button:hover{
     background-color: gray;
     transition: 0.4s;
 }
-.mensagen-verdade{
+
+#mensagen-verdade{
     background-color: rgb(72, 240, 6);
     color: white;
 }
-.mensagen-falso{
+
+#mensagen-falso{
     background-color: red;
     color: wheat;
     
